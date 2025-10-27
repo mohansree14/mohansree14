@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohan Sree Vijayakumar</h1>
 <h3 align="center">AI Graduate Student | ML Engineer | Building AI solutions that drive real-world impact</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohansree14" alt="mohansree14" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mohansree11" target="blank"><img src="https://img.shields.io/twitter/follow/mohansree11?logo=twitter&style=for-the-badge" alt="mohansree11" /></a> </p>
 
