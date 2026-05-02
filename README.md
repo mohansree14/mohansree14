@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning [Prediction-of-Cellular-Mechanisms-Alzheimer--Disease](https://github.com/mohansree14/Prediction-of-Cellular-Mechanisms-Alzheimer--Disease.git)
 
-- 👨‍💻 All of my projects are available at [https://mohansreevijayakumar.vercel.app/](https://mohnasree.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mohansree.vercel.app/](https://mohnasree.vercel.app/)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Cloud Deployment (AWS/Azure), and MLOps**
 
