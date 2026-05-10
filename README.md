@@ -76,4 +76,4 @@
 
 | | |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohansree14&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> | <img src="https://github-readme-stats.vercel.app/api?username=mohansree14&show_icons=true&locale=en" alt="GitHub Stats" /> |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohansree14&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohansree14&show_icons=true&locale=en" alt="GitHub Stats" /> |
